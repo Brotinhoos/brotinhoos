@@ -3,7 +3,7 @@
   <!-- Header HTML Puro (100% Confiável & Estilizado) -->
   <h1 align="center">
     <span style="color: #00DFD8;">💫</span> 
-    <span style="background: -webkit-linear-gradient(45deg, #00DFD8, #9D4EDD); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"><b>INFO4V | RK</b></span>
+    <span style="background: -webkit-linear-gradient(45deg, #00DFD8, #9D4EDD); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"><b>BROTINHOOS | RK</b></span>
     <span style="color: #9D4EDD;">💫</span>
   </h1>
   <p><b>🎨 Artist &nbsp;|&nbsp; 🐍 Python Developer &nbsp;|&nbsp; 🚀 Cyber Space</b></p>
@@ -26,10 +26,10 @@
 ## 🔮 SYSTEM INFO (ABOUT ME)
 
 ```system
-> [PROFILE]: RK / INFO4V
+> [PROFILE]: RK
 > [ROLE]: Python Developer & Digital Artist
 > [SYS_INTERESTS]: Dark Souls | Astronomy | Hard Rock
 ```
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brotinhooos&theme=tokyo-night&bg_color=0D1117&color=00DFD8&line=7928CA&point=00DFD8&area=true&hide_border=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/brotinhooos/brotinhooos/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
