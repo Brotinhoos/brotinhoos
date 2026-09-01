@@ -14,3 +14,7 @@
   <!-- Glowing Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brotinhooos&theme=tokyo-night&bg_color=0D1117&color=00DFD8&line=7928CA&point=00DFD8&area=true&hide_border=true" width="100%" />
+</p>
